@@ -1,6 +1,6 @@
 今天讲下angular ui-router嵌套路由控制
 
-效果就是导航中套tab页面
+效果就是导航界面中套tab页面
 
 1. 首先下载ui-router.js插件，下载地址：http://www.bootcdn.cn/angular-ui-router/，http://www.bootcdn.cn/基本什么都可以下载
 2. 构建界面(引入了bootstrap，jquery)
